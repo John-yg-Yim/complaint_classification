@@ -52,4 +52,4 @@ both the predicted category and relevant government department contact informati
 ## 🚀 Demo
 
 - Hugging Face Demo (Real-time text classification + department info)  
-👉 [Complaint Classification & Government Department Recommendation](https://huggingface.co/spaces/JohnYim0213/project-note)
+👉 [Complaint Classification & Government Department Recommendation](https://huggingface.co/spaces/John-Yim/ProjectNote)
